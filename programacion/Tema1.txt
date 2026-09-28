@@ -3,3 +3,4 @@ Tema 1: Introducción a la programación
 -Diagramas de flujo
 -Estructuras de control: if, while, for
 -(Para actualizar la página)
+-(Para escribir desde GitHub y que aparezca en VS Code)
